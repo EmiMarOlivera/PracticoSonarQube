@@ -1,5 +1,5 @@
 name: Build
-on:
+on:            #distaparador/ trigger
   push:
     branches:
       - main
